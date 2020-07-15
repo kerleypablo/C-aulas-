@@ -11,13 +11,14 @@ namespace aulaInterfaces.services
         public double PricePerHour { get; private set; }
         public double Priceperday { get; private set; }
 
-        private BrasulTaxservices brazilTaxServices = new BrasulTaxservices();
+        private ITaxServices _taxservices;
 
 
-        public RentalServices(double pricePerHour, double priceperday)
+        public RentalServices(double pricePerHour, double priceperday, ITaxServices taxservices)
         {
             PricePerHour = pricePerHour;
             Priceperday = priceperday;
+            _taxservices = taxservices;
         }
 
 
@@ -35,7 +36,7 @@ namespace aulaInterfaces.services
                 basicPaymente = Priceperday * Math.Ceiling( duration.TotalDays);
             }
 
-            double tax = brazilTaxServices.Tax(basicPaymente);
+            double tax = _taxservices.Tax(basicPaymente);
 
             carRental.Invoice = new Invoice(basicPaymente, tax);
 
