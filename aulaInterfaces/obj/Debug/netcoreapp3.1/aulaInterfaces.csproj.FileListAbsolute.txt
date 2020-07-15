@@ -1,0 +1,13 @@
+C:\Users\Kerley Pablo\source\repos\aulaInterfaces\aulaInterfaces\obj\Debug\netcoreapp3.1\aulaInterfaces.csprojAssemblyReference.cache
+C:\Users\Kerley Pablo\source\repos\aulaInterfaces\aulaInterfaces\obj\Debug\netcoreapp3.1\aulaInterfaces.AssemblyInfoInputs.cache
+C:\Users\Kerley Pablo\source\repos\aulaInterfaces\aulaInterfaces\obj\Debug\netcoreapp3.1\aulaInterfaces.AssemblyInfo.cs
+C:\Users\Kerley Pablo\source\repos\aulaInterfaces\aulaInterfaces\obj\Debug\netcoreapp3.1\aulaInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Kerley Pablo\source\repos\aulaInterfaces\aulaInterfaces\bin\Debug\netcoreapp3.1\aulaInterfaces.exe
+C:\Users\Kerley Pablo\source\repos\aulaInterfaces\aulaInterfaces\bin\Debug\netcoreapp3.1\aulaInterfaces.deps.json
+C:\Users\Kerley Pablo\source\repos\aulaInterfaces\aulaInterfaces\bin\Debug\netcoreapp3.1\aulaInterfaces.runtimeconfig.json
+C:\Users\Kerley Pablo\source\repos\aulaInterfaces\aulaInterfaces\bin\Debug\netcoreapp3.1\aulaInterfaces.runtimeconfig.dev.json
+C:\Users\Kerley Pablo\source\repos\aulaInterfaces\aulaInterfaces\bin\Debug\netcoreapp3.1\aulaInterfaces.dll
+C:\Users\Kerley Pablo\source\repos\aulaInterfaces\aulaInterfaces\bin\Debug\netcoreapp3.1\aulaInterfaces.pdb
+C:\Users\Kerley Pablo\source\repos\aulaInterfaces\aulaInterfaces\obj\Debug\netcoreapp3.1\aulaInterfaces.dll
+C:\Users\Kerley Pablo\source\repos\aulaInterfaces\aulaInterfaces\obj\Debug\netcoreapp3.1\aulaInterfaces.pdb
+C:\Users\Kerley Pablo\source\repos\aulaInterfaces\aulaInterfaces\obj\Debug\netcoreapp3.1\aulaInterfaces.genruntimeconfig.cache
